@@ -1,0 +1,1 @@
+Modeling behavior in the multi-armed bandit task. Paper: Ten simple rules for the computational modeling of behavioral data. Course: Computational Modelling of Cognition and Behaviour. Course Instructor: Dr. Apoorva Bhandari. Authors: Dr. Apoorva Bhandari, Anshika Jhamb
